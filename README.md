@@ -222,4 +222,4 @@ See the tracker and handoff map in [`PLAN.md`](./PLAN.md) for component ownershi
 
 ## License
 
-MIT — for research/educational use. Not licensed or intended for live capital deployment as-is.
+MIT — for research/educational use. Not licensed or intended for live capital deployment as-is.# Trading_Neural_Network
